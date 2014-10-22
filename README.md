@@ -2,7 +2,7 @@
 
 Это — документация и багтрекер **DEVELOPMENT (новой)** версии проекта iCoach: [http://en.icoach.io](http://en.icoach.io)
 
-Репозиторий для PRODUCTION (текущей) версии iCoach находится здесь: [https://github.com/schaman/icoach](https://github.com/schaman/ic-dev)
+Репозиторий для PRODUCTION (текущей) версии iCoach находится здесь: [https://github.com/schaman/ic-dev](https://github.com/schaman/ic-dev)
 
 ## Документация (Wiki)
 
@@ -16,7 +16,7 @@
 
 Если ты видишь, что работает не так, как должно, или тебе чего-то не хватает — ты можешь создать новый issue.
 
-Ссылка на трекер есть в меню справа — [Issues](https://github.com/schaman/ic-dev/issues)
+Ссылка на трекер есть в меню справа — [https://github.com/schaman/ic-dev/issues](https://github.com/schaman/ic-dev/issues)
 
 
 Удачи! :)
